@@ -1,4 +1,4 @@
-# Duplicated Links Remover
+# Duplicate Links Remover
 Use this script to remove duplicate links from a large links file, this script is a part from one of my private scraping bots that I can't share here, but this script can work as independent script.
 
 # Requirements:
